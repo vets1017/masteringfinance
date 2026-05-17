@@ -1,2 +1,3 @@
-# All-In-One Open-Source Curriculum and Resources for Mastering Finance
----
+# Open-Source Curriculum / Resources for Mastering Finance
+OTW!
+
