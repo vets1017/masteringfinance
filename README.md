@@ -5,7 +5,7 @@ This GitHub repository contains an open-source curriculum and many resources for
 (Don't know where to start? [Click here!](www.google.com))
 
 _Created and maintained by [@vets1017_](https://github.com/vets1017)_
-_Inspired by [Hendriyono Rachman's financemasters](https://github.com/hendrirach/financemasters). Follow him on X [@hendriyono](https://x.com/hendriyono); Instagram [@hendriyono](https://www.instagram.com/hendriyono)
+_Inspired by [Hendriyono Rachman's financemasters](https://github.com/hendrirach/financemasters). Follow him on X [@hendriyono](https://x.com/hendriyono); Instagram [@hendriyono](https://www.instagram.com/hendriyono)_
 _Contributions are welcome! Edit the specific page and send the changes as a pull request._
 
 ---
