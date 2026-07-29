@@ -1,11 +1,11 @@
 ---
-
 "title:": '"README"'
 "track:": none
 "order:":
 "duration:": '"1 min"'
 tags:
 "last_updated:": 2026-06-01
+---
 
 # Open-Source Curriculum / Resources for Mastering Finance
 
@@ -14,8 +14,8 @@ This GitHub repository contains an open-source curriculum and many resources for
 (Don't know where to start? [Click here!](www.google.com))
 
 _Created and maintained by [@vets1017](https://github.com/vets1017)_
-*Inspired by [Hendriyono Rachman's financemasters](https://github.com/hendrirach/financemasters). Follow him on X [@hendriyono](https://x.com/hendriyono); Instagram [@hendriyono](https://www.instagram.com/hendriyono)
-Contributions are welcome! Edit the specific page and send the changes as a pull request.*
+_Inspired by [Hendriyono Rachman's financemasters](https://github.com/hendrirach/financemasters). Follow him on X [@hendriyono](https://x.com/hendriyono); Instagram [@hendriyono](https://www.instagram.com/hendriyono)
+Contributions are welcome! Edit the specific page and send the changes as a pull request._
 
 ---
 

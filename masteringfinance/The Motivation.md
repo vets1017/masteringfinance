@@ -1,12 +1,11 @@
 ---
-
-## "title:": '"The Motivation"'
-
+"title:": '"The Motivation"'
 "track:": beginner
 "order:": "2"
 "duration:": '"10 min"'
 tags:
 "last_updated:": 2026-06-30
+---
 
 # The Motivation
 
