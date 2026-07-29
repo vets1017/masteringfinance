@@ -1,4 +1,14 @@
+---
+"title:": '"The Motivation"'
+"track:": beginner
+"order:": "2"
+"duration:": '"10 min"'
+tags:
+"last_updated:": 2026-06-30
+---
+
 # The Motivation
+
 Finance is the language of the world. Every major decision, such as a family purchasing a new home or a tech startup launching a new product, is driven by finance. Understanding how money moves isn't strictly for Wall Street bankers; rather a fundamental life skill.  
 The knowledge of finance alone is very valuable to the job sector, and it's one of the few fields that pays generous amounts of money.
 
@@ -15,8 +25,8 @@ The knowledge of finance alone is very valuable to the job sector, and it's one 
 The traditional way of learning finance is to study at a university. The problem is that finance is vast, broad, and includes tons of different elements, with each having its own complex subjects; your time at university would probably not be enough. To add on, high-quality financial education is heavily gatekept. Mastering concepts such as corporate valuation, private equity, or financial modeling is usually locked behind expensive costs, where society expects you to pay for university degrees, certifications, or courses.
 
 >University of Pennsylvania (Wharton)
-
->Median MBA Student Debt: $161,635  
+>
+Median MBA Student Debt: $161,635  
 Interest Payments: $25,021  
 Median Cost of MBA: $266,482
 
