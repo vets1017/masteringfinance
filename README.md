@@ -22,15 +22,15 @@ Contributions are welcome! Edit the specific page and send the changes as a pull
 ### Contents
 
 - [Open-Source Curriculum / Resources for Mastering Finance](masteringfinance)
-- [The Motivation](masteringfinance/The Motivation.md)
+- [The Motivation](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/The%20Motivation.md)
 - [The Curriculum](masteringfinance)
-  - [Recommended Prerequisites](masteringfinance/Recommended Prerequisites)
-    - [Personal Finance & Literacy](masteringfinance/Recommended Prerequisites/Personal Finance & Literacy.md)
-    - [Math & Statistics](masteringfinance/Recommended Prerequisites/Math & Statistics.md)
-    - [Accounting](masteringfinance/Recommended Prerequisites/Accounting.md)
-  - [Introductory Courses](masteringfinance/Introductory Courses)
-    - [Introduction to Finance](masteringfinance/Introductory Courses/Introduction to Finance.md)
-    - [Financial Markets & Institutions](masteringfinance/Introductory Courses/Financial Markets & Institutions.md)
+  - [Recommended Prerequisites](https://github.com/vets1017/masteringfinance/tree/main/masteringfinance/Recommended%20Prerequisites)
+    - [Personal Finance & Literacy](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/Recommended%20Prerequisites/Personal%20Finance%20%26%20Literacy.md)
+    - [Math & Statistics](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/Recommended%20Prerequisites/Math%20%26%20Statistics.md)
+    - [Accounting](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/Recommended%20Prerequisites/Accounting.md)
+  - [Introductory Courses](https://github.com/vets1017/masteringfinance/tree/main/masteringfinance/Introductory%20Courses)
+    - [Introduction to Finance](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/Introductory%20Courses/Introduction%20to%20Finance.md)
+    - [Financial Markets & Institutions](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/Introductory%20Courses/Financial%20Markets%20%26%20Institutions.md)
   - Core Courses
     - Corporate Finance
     - Equity Investment Management
