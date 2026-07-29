@@ -21,7 +21,7 @@ Contributions are welcome! Edit the specific page and send the changes as a pull
 
 ### Contents
 
-- [Open-Source Curriculum / Resources for Mastering Finance](masteringfinance)
+- [Open-Source Curriculum / Resources for Mastering Finance](https://github.com/vets1017/masteringfinance/tree/main#open-source-curriculum--resources-for-mastering-finance)
 - [The Motivation](https://github.com/vets1017/masteringfinance/blob/main/masteringfinance/The%20Motivation.md)
 - [The Curriculum](masteringfinance)
   - [Recommended Prerequisites](https://github.com/vets1017/masteringfinance/tree/main/masteringfinance/Recommended%20Prerequisites)
