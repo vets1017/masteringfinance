@@ -21,16 +21,16 @@ Contributions are welcome! Edit the specific page and send the changes as a pull
 
 ### Contents
 
-- Open-Source Curriculum / Resources for Mastering Finance
-- The Motivation
-- The Curriculum
-  - Recommended Prerequisites
-    - Personal Finance & Literacy
-    - Math & Statistics
-    - Accounting
-  - Introductory Courses
-    - Introduction to Finance
-    - Financial Markets & Institutions
+- [Open-Source Curriculum / Resources for Mastering Finance](masteringfinance)
+- [The Motivation](masteringfinance/The Motivation.md)
+- [The Curriculum](masteringfinance)
+  - [Recommended Prerequisites](masteringfinance/Recommended Prerequisites)
+    - [Personal Finance & Literacy](masteringfinance/Recommended Prerequisites/Personal Finance & Literacy.md)
+    - [Math & Statistics](masteringfinance/Recommended Prerequisites/Math & Statistics.md)
+    - [Accounting](masteringfinance/Recommended Prerequisites/Accounting.md)
+  - [Introductory Courses](masteringfinance/Introductory Courses)
+    - [Introduction to Finance](masteringfinance/Introductory Courses/Introduction to Finance.md)
+    - [Financial Markets & Institutions](masteringfinance/Introductory Courses/Financial Markets & Institutions.md)
   - Core Courses
     - Corporate Finance
     - Equity Investment Management
